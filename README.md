@@ -14,11 +14,13 @@ Se ha puesto en practica la programación orientada a objetos, empleando clases,
 Estructura del proyecto:
 ```text
 /C006_Biblioteca4_0
-  ├─ Biblioteca.java
-  ├─ Libro.java
-  ├─ Main.java
-  ├─ Notificable.java
-  ├─ Persona.java
-  ├─ Prestamo.java
-  ├─ Trabajador.java
-  └─ Usuario.java
+  ├─ src
+  |  ├─ Biblioteca.java
+  |  ├─ Libro.java
+  |  ├─ Main.java
+  |  ├─ Notificable.java
+  |  ├─ Persona.java
+  |  ├─ Prestamo.java
+  |  ├─ Trabajador.java
+  |  └─ Usuario.java
+  └─ README.md
